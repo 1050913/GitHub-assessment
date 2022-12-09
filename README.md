@@ -1,8 +1,7 @@
 # GitHub-assessment
 
 ✞ ☎
-This repository contains an analysis of git usage through
-time .
+This repository contains my answer to question 3 of the GitHub assessment.
 To run this analysis use the following command :
 ```
 Rscript src/make - plot . R
